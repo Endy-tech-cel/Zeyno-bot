@@ -1,20 +1,20 @@
 {
-  "name": "varebot",
+  "name": "zeyno-bot",
   "version": "5.1.0",
   "description": "Best Whatsapp bot (MD) - by endy",
   "main": "based.js",
   "type": "module",
   "author": {
     "name": "endy",
-    "url": "https://github.com/realvare"
+    "url": "https://github.com/Endy-tech-cel"
   },
-  "homepage": "https://github.com/realvare/varebot",
+  "homepage": "https://github.com/Endy-tech-cel/Zeyno-bot",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realvare/varebot.git"
+    "url": "git+https://github.com/Endy-tech-cel/Zeyno-bot.git"
   },
   "bugs": {
-    "url": "git+https://github.com/realvare/varebot/issues"
+    "url": "git+https://github.com/Endy-tech-cel/Zeyno-bot/issues"
   },
   "keywords": [
     "whatsapp",
